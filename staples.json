@@ -1,0 +1,43 @@
+{
+  "ramp": [
+    "Sol Ring",
+    "Arcane Signet",
+    "Cultivate",
+    "Kodama's Reach",
+    "Rampant Growth",
+    "Farseek"
+  ],
+  "removal": [
+    "Swords to Plowshares",
+    "Beast Within",
+    "Vindicate",
+    "Mortify",
+    "Hero's Downfall"
+  ],
+  "draw": [
+    "Rhystic Study",
+    "Brainstorm",
+    "Ponder",
+    "Phyrexian Arena",
+    "Necropotence"
+  ],
+  "artifact": [
+    "Mana Crypt",
+    "Sol Ring",
+    "Skullclamp",
+    "Sensei's Divining Top",
+    "Sword of Fire and Ice"
+  ],
+  "token": [
+    "Doubling Season",
+    "Anointed Procession",
+    "Avenger of Zendikar",
+    "Parallel Lives"
+  ],
+  "reanimator": [
+    "Reanimate",
+    "Animate Dead",
+    "Buried Alive",
+    "Unearth"
+  ]
+}
